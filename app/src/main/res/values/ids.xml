@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_placeholder_title" type="id"/>
+    <item name="id_title" type="id"/>
+    <item name="id_header_image" type="id"/>
+    <item name="id_recycler_view" type="id"/>
+</resources>
